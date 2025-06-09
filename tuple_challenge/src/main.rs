@@ -12,7 +12,8 @@ fn main() {
     // Printing the whole tuple out with elements.
     // Mutating a tuple (updating an individual item in a tuple).
     // Destructuring a tuple.
-
+    
+    // Explicit typing
     let num : (i32, f64, i32) = (1, 20.45, 3);
 
     // Accessing individual elements
@@ -38,7 +39,8 @@ fn main() {
     b = 300.0;
 
     println!("The value of a is: {}, The value of b: {}, The value of c: {}", a, b, c);
-
+    
+    // Implicit typing
     let data = ("Polkadot", true);
     let swapped_data = swap(data.0, data.1);
     
