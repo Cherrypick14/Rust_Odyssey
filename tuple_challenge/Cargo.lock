@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "tuple_borrowing"
+name = "tuple_challenge"
 version = "0.1.0"
