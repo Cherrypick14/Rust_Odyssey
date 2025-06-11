@@ -15,7 +15,7 @@ fn to_fahreneit (celsius: f32) -> f32 {
 }
 // A function with no param and returns a fixed value
 
-fn get_lucky_number() ->{
+fn get_lucky_number() -> i32 {
     4
 }
 // A function that checks if a number is even
